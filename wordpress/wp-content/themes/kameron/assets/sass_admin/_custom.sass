@@ -1,0 +1,136 @@
+$light_gray: #E3E3E3
+
+#blocks-to-edit
+	.block.block-section
+		background-color: darken($white, 3)
+		border-style: solid
+		border-radius: 1px
+		margin-bottom: $halfling
+
+	
+	.tiny-preview
+		// max-width: 50px
+		width: auto
+		max-height: 40px
+		cursor: pointer
+		
+
+	.reference-image
+		
+		img
+			display: block
+			max-width: 100%
+			margin: 0 auto
+
+	
+	.block-options
+		+clearfix
+		border: 1px solid $light_gray
+		background-color: darken($white, 5)
+		position: relative
+		padding: $halfling
+		margin: 0
+		
+		min-height: 30px
+
+		&.collapsed
+			opacity: 0.2
+			+t_in(opacity, 200)
+			&:hover
+				opacity: 1
+		
+
+		.column
+			+box-sizing(border-box)
+			width: 45%
+			padding-left: 5%
+			float: left
+			padding-left: $padding
+
+			&.right
+				border-left: 1px solid $light_gray
+				
+	.controls
+		position: absolute
+		top: $halfling/2
+		right: $halfling/2		
+		width: 100px
+
+		a
+			float: right
+			margin-right: $halfling/2
+
+			border-radius: 3px
+			text-decoration: none
+			color: $white
+			background-color: $black
+			
+			display: inline-block
+			width: 28px
+			height: 28px
+			+t(background-color, 200)
+			+t(opacity, 200)
+			&:hover
+				text-decoration: none
+				
+
+		.options
+			+hide-text
+			background: url("../assets/images/admin/settings.png") no-repeat center center
+			color: $white
+			background-color: $blue
+			opacity: 0.75
+			&:hover
+				opacity: 1
+				background-color: darken(saturate($blue, 7), 5)
+
+
+		.delete
+			+hide-text
+			background: url("../assets/images/admin/trash.png") no-repeat center center
+			background-color: $red
+			opacity: 0.75
+			
+			
+			&:hover
+				opacity: 1
+				text-decoration: none
+				
+
+
+.section__title
+	font-weight: bolder
+	+fr(1.25)
+	line-height: 40px
+
+	.is-open &
+		border-bottom:
+			color: $light_gray 
+			width: 1px
+			style: solid
+
+
+	
+			
+
+ul#blocks-archive
+	.block-title
+		font-weight: normal
+		font-size: 11px
+
+	.ui-draggable.block
+		width: 118px
+
+
+
+
+
+
+
+
+
+
+
+
+
+

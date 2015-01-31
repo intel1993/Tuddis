@@ -1,0 +1,1839 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Camilla\n"
+"POT-Creation-Date: 2014-02-12 20:18+0200\n"
+"PO-Revision-Date: 2014-02-12 20:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: Theme Village <support@themevillage.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:21 comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:22 comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:23 comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:32
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:50
+msgid "Sticky Bottom Area"
+msgstr ""
+
+#: functions.php:119
+msgid "Show All"
+msgstr ""
+
+#: header.php:73
+msgid "Skip to content"
+msgstr ""
+
+#: inc/extras.php:60
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/customizer/extension_customizer.php:341
+#: inc/options-panel/ReduxCore/framework.php:1382
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/customizer/extension_customizer.php:342
+#: inc/options-panel/ReduxCore/framework.php:1383
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/customizer/extension_customizer.php:343
+#: inc/options-panel/ReduxCore/framework.php:1385
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/customizer/extension_customizer.php:372
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/customizer/extension_customizer.php:373
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/customizer/extension_customizer.php:374
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/EDD_License_Handler.php:112
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/EDD_License_Handler.php:218
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:144
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/EDD_SL_Theme_Updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:110
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:118
+#: inc/options-panel/ReduxCore/extensions/edd/extension_edd.php:170
+msgid "Not Activated"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:114
+#: inc/options-panel/ReduxCore/extensions/edd/extension_edd.php:173
+msgid "Deactivated"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:116
+#: inc/options-panel/ReduxCore/extensions/edd/extension_edd.php:77
+#: inc/options-panel/ReduxCore/extensions/edd/extension_edd.php:119
+#: inc/options-panel/ReduxCore/extensions/edd/extension_edd.php:176
+msgid "Valid"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:124
+msgid "Verifying license..."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:125
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1294
+msgid "Status"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:134
+msgid "Verify License"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/edd_license/field_edd_license.php:139
+msgid "Activate License"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/extensions/edd/extension_edd.php:179
+msgid "Not Valid"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:126
+#: inc/options-panel/ReduxCore/framework.php:132
+#: inc/options-panel/ReduxCore/framework.php:305
+#: inc/options-panel/ReduxCore/framework.php:308
+msgid "Options"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:302
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:302
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:1053
+#: inc/options-panel/ReduxCore/framework.php:1054
+#: inc/options-panel/ReduxCore/framework.php:2356
+msgid "Import / Export"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:1065
+#: inc/options-panel/ReduxCore/framework.php:1066
+#: inc/options-panel/ReduxCore/framework.php:2372
+#: inc/options-panel/ReduxCore/framework.php:2487
+msgid "Options Object"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:1077
+#: inc/options-panel/ReduxCore/framework.php:1078
+#: inc/options-panel/ReduxCore/framework.php:2386
+#: inc/options-panel/ReduxCore/framework.php:2505
+msgid "System Info"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:1384
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:1660
+msgid "Default"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2223
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2285
+msgid "Expand"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2287
+#: inc/options-panel/ReduxCore/framework.php:2555
+msgid "Save Changes"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2289
+#: inc/options-panel/ReduxCore/framework.php:2557
+msgid "Reset Section"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2291
+#: inc/options-panel/ReduxCore/framework.php:2559
+msgid "Reset All"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2294
+#: inc/options-panel/ReduxCore/framework.php:2562
+msgid "Working..."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2305
+msgid "Settings Imported!"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2311
+msgid "Settings Saved!"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2318
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2319
+msgid "error(s) were found!"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2320
+msgid "warning(s) were found!"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2423
+msgid "Import / Export Options"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2424
+msgid "Import Options"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2425
+msgid "Import from file"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2425
+msgid "Import from URL"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2434
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2448
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2459
+msgid "Import"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2459
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2462
+msgid "Export Options"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2468
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2473
+msgid "Copy"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2473
+msgid "Download"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2473
+msgid "Copy Link"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/framework.php:2494
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:119
+#: inc/options-panel/ReduxCore/inc/fields/color/field_color.php:72
+#: inc/options-panel/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: inc/options-panel/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: inc/options-panel/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:84
+msgid "Transparent"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:136
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:152
+msgid "Background Clip"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:168
+msgid "Background Origin"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:183
+msgid "Background Size"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:198
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:218
+msgid "Background Position"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:273
+#: inc/options-panel/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:307
+#: inc/options-panel/ReduxCore/inc/fields/media/field_media.php:150
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:121
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Upload"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/background/field_background.php:313
+#: inc/options-panel/ReduxCore/inc/fields/media/field_media.php:156
+#: inc/options-panel/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: inc/options-panel/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: inc/options-panel/ReduxCore/inc/fields/multi_text/field_multi_text.php:82
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:128
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:192
+msgid "Remove"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/border/field_border.php:112
+#: inc/options-panel/ReduxCore/inc/fields/spacing/field_spacing.php:125
+msgid "All"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/border/field_border.php:125
+#: inc/options-panel/ReduxCore/inc/fields/spacing/field_spacing.php:149
+msgid "Top"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/border/field_border.php:132
+#: inc/options-panel/ReduxCore/inc/fields/spacing/field_spacing.php:156
+msgid "Right"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/border/field_border.php:139
+#: inc/options-panel/ReduxCore/inc/fields/spacing/field_spacing.php:163
+msgid "Bottom"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/border/field_border.php:146
+#: inc/options-panel/ReduxCore/inc/fields/spacing/field_spacing.php:170
+msgid "Left"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/dimensions/field_dimensions.php:139
+msgid "Width"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/dimensions/field_dimensions.php:155
+msgid "height"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/dimensions/field_dimensions.php:168
+#: inc/options-panel/ReduxCore/inc/fields/dimensions/field_dimensions.php:169
+#: inc/options-panel/ReduxCore/inc/fields/spacing/field_spacing.php:181
+#: inc/options-panel/ReduxCore/inc/fields/spacing/field_spacing.php:182
+msgid "Units"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/gallery/field_gallery.php:77
+#: inc/options-panel/sample/sample-config.php:306
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/group/field_group.php:76
+msgid "New"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/group/field_group.php:89
+msgid "New "
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/group/field_group.php:138
+#: inc/options-panel/ReduxCore/inc/fields/group/field_group.php:203
+msgid "Delete"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/group/field_group.php:208
+msgid "Add"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/link_color/field_link_color.php:86
+msgid "Regular"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Visited"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Active"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/password/field_password.php:55
+msgid "Password"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/select/field_select.php:79
+#: inc/options-panel/ReduxCore/inc/fields/select_image/field_select_image.php:59
+msgid "Select an item"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/select/field_select.php:120
+#: inc/options-panel/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:133
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:197
+msgid "Title"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:135
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:199
+msgid "Description"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:137
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:201
+msgid "URL"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:168
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:231
+msgid "Delete Slide"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/slides/field_slides.php:234
+msgid "Add Slide"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:141
+msgid "Font family"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:164
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:200
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:204
+msgid "Font style"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:204
+msgid "Style"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:230
+msgid "Font subsets"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Subsets"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font script"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:249
+msgid "Size"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:258
+msgid "Height"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:266
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:288
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:308
+msgid "Font color"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/fields/typography/field_typography.php:632
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/tracking.php:60
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/validation/color/validation_color.php:15
+#: inc/options-panel/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+#: inc/options-panel/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/options-panel/ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/options-panel/class.redux-plugin.php:277
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: inc/options-panel/class.redux-plugin.php:277
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: inc/options-panel/class.redux-plugin.php:381
+msgid "Github Repo"
+msgstr ""
+
+#: inc/options-panel/class.redux-plugin.php:382
+msgid "Issue Tracker"
+msgstr ""
+
+#: inc/options-panel/class.redux-plugin.php:387
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: inc/options-panel/class.redux-plugin.php:389
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:107
+msgid "Section via hook"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:108
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:195
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:214
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:215
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:216
+msgid "Tags"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:220
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:221
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:251
+msgid "Home Settings"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:252
+msgid ""
+"Redux Framework was created with the developer in mind. It allows for any "
+"theme developer to have an advanced theme panel with most of the features a "
+"developer would need. For more information check out the Github repo at: <a "
+"href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github."
+"com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:259
+msgid "Web Fonts"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:262
+#: inc/options-panel/sample/sample-config.php:279
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:263
+#: inc/options-panel/sample/sample-config.php:280
+#: inc/options-panel/sample/sample-config.php:293
+#: inc/options-panel/sample/sample-config.php:301
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:268
+msgid "Media Options"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:269
+msgid "With the \"section\" field you can create indent option sections."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:276
+msgid "Media w/ URL"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:291
+msgid "Media w/o URL"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:292
+#: inc/options-panel/sample/sample-config.php:300
+msgid ""
+"This represents the minimalistic view. It does not have the preview box or "
+"the display URL in an input box. "
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:299
+msgid "Media No Preview"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:307
+msgid ""
+"Create a new Gallery by selecting existing or uploading new images using the "
+"WordPress native uploader"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:308
+#: inc/options-panel/sample/sample-config.php:627
+#: inc/options-panel/sample/sample-config.php:635
+#: inc/options-panel/sample/sample-config.php:652
+#: inc/options-panel/sample/sample-config.php:732
+#: inc/options-panel/sample/sample-config.php:742
+#: inc/options-panel/sample/sample-config.php:753
+#: inc/options-panel/sample/sample-config.php:760
+#: inc/options-panel/sample/sample-config.php:769
+#: inc/options-panel/sample/sample-config.php:779
+#: inc/options-panel/sample/sample-config.php:789
+#: inc/options-panel/sample/sample-config.php:808
+#: inc/options-panel/sample/sample-config.php:818
+#: inc/options-panel/sample/sample-config.php:827
+#: inc/options-panel/sample/sample-config.php:836
+#: inc/options-panel/sample/sample-config.php:845
+#: inc/options-panel/sample/sample-config.php:855
+#: inc/options-panel/sample/sample-config.php:871
+#: inc/options-panel/sample/sample-config.php:879
+#: inc/options-panel/sample/sample-config.php:888
+#: inc/options-panel/sample/sample-config.php:896
+#: inc/options-panel/sample/sample-config.php:904
+#: inc/options-panel/sample/sample-config.php:913
+#: inc/options-panel/sample/sample-config.php:921
+#: inc/options-panel/sample/sample-config.php:951
+#: inc/options-panel/sample/sample-config.php:964
+#: inc/options-panel/sample/sample-config.php:983
+#: inc/options-panel/sample/sample-config.php:993
+#: inc/options-panel/sample/sample-config.php:1023
+#: inc/options-panel/sample/sample-config.php:1032
+#: inc/options-panel/sample/sample-config.php:1040
+#: inc/options-panel/sample/sample-config.php:1049
+#: inc/options-panel/sample/sample-config.php:1057
+#: inc/options-panel/sample/sample-config.php:1066
+#: inc/options-panel/sample/sample-config.php:1074
+#: inc/options-panel/sample/sample-config.php:1083
+#: inc/options-panel/sample/sample-config.php:1091
+#: inc/options-panel/sample/sample-config.php:1100
+#: inc/options-panel/sample/sample-config.php:1110
+#: inc/options-panel/sample/sample-config.php:1118
+#: inc/options-panel/sample/sample-config.php:1127
+#: inc/options-panel/sample/sample-config.php:1135
+#: inc/options-panel/sample/sample-config.php:1144
+#: inc/options-panel/sample/sample-config.php:1200
+#: inc/options-panel/sample/sample-config.php:1211
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:313
+msgid "JQuery UI Slider Example 1"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:314
+msgid ""
+"JQuery UI slider description. Min: 1, max: 500, step: 3, default value: 45"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:324
+msgid "JQuery UI Slider Example 2 w/ Steps (5)"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:325
+msgid ""
+"JQuery UI slider description. Min: 0, max: 300, step: 5, default value: 75"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:334
+msgid "JQuery UI Spinner Example 1"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:335
+msgid ""
+"JQuery UI spinner description. Min:20, max: 100, step:20, default value: 40"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:344
+msgid "Switch On"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:345
+#: inc/options-panel/sample/sample-config.php:353
+#: inc/options-panel/sample/sample-config.php:1263
+msgid "Look, it's on!"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:352
+msgid "Switch Off"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:360
+msgid "Switch - Custom Titles"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:361
+msgid "Look, it's on! Also hidden child elements!"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:371
+msgid "Switch - With Hidden Items (NESTED!)"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:372
+msgid "Also called a \"fold\" parent."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:373
+msgid ""
+"Items set with a fold to this ID will hide unless this is set to the "
+"appropriate value."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:381
+msgid "Images Option (with pattern=>true)"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:382
+msgid "Select a background pattern."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:431
+msgid "Slides Options"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:432
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:433
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:435
+msgid "This is a title"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:436
+msgid "Description Here"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:437
+msgid "Give us a link!"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:444
+msgid "Preset"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:445
+#: inc/options-panel/sample/sample-config.php:447
+msgid ""
+"This allows you to set a json string or array to override multiple "
+"preferences in your theme."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:456
+msgid "Typography"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:472
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:494 inc/options.php:41
+msgid "General Settings"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:500
+msgid "Main Layout"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:501
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:517
+msgid "Tracking Code"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:518
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:526
+msgid "CSS Code"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:527
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:536
+#: inc/options-panel/sample/sample-config.php:546
+msgid "JS Code"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:537
+#: inc/options-panel/sample/sample-config.php:547
+msgid "Paste your JS code here."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:557
+msgid "Footer Text"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:558
+msgid ""
+"You can use the following shortcodes in your footer text: [wp-url] [site-"
+"url] [theme-url] [login-url] [logout-url] [site-title] [site-tagline] "
+"[current-year]"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:576
+msgid "Styling Options"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:581
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:582
+#: inc/options-panel/sample/sample-config.php:1277
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:590
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:591
+msgid "Pick a background color for the theme (default: #fff)."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:599
+msgid "Body Background"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:600
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:607
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:608
+msgid "Pick a background color for the footer (default: #dd9933)."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:615
+msgid "Color RGBA - BETA"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:616
+msgid ""
+"Gives you the RGBA color. Still quite experimental. Use at your own risk."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:625
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:626
+#: inc/options-panel/sample/sample-config.php:634
+#: inc/options-panel/sample/sample-config.php:650
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:633
+msgid "Links Color Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:649
+msgid "Header Border Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:668
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:669
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:670
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:678
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:679
+msgid "Allow your users to choose width, height, and/or unit."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:680
+msgid ""
+"You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:686
+msgid "Body Font"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:687
+msgid "Specify the body font properties."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:699
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:700
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:701
+msgid "This field is even CSS validated!"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:707
+msgid "Custom HTML"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:708
+msgid "Just like a text box widget."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:709
+msgid "This field is even HTML validated!"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:723
+msgid "Field Validation"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:724
+msgid "Validate ALL fields within Redux."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:725
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed2</p>"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:730
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:731
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:740
+msgid "Text Option with Data Attributes"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:741
+msgid ""
+"You can also pass an options array if you want. Set the default to whatever "
+"you like."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:750
+msgid "Multi Text Option - Color Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:752
+msgid ""
+"If you enter an invalid color it will be removed. Try using the text \"blue"
+"\" as a color.  ;)"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:758
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:759
+msgid "This must be a URL."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:767
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:768
+msgid "This must be numeric."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:777
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:778
+msgid "This must be a comma separated string of numerical values."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:787
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:788
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:796
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:797
+#: inc/options-panel/sample/sample-config.php:807
+#: inc/options-panel/sample/sample-config.php:817
+msgid "You decide."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:798
+msgid "This field's default value was changed by a filter hook!"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:806
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:816
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:825
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:826
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:834
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:835
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:843
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:844
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:853
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:854
+msgid "JS will be escaped"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:863
+msgid "Radio/Checkbox Fields"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:864
+#: inc/options-panel/sample/sample-config.php:976
+#: inc/options-panel/sample/sample-config.php:1192
+#: inc/options-panel/sample/sample-config.php:1295
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:869
+msgid "Checkbox Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:870
+#: inc/options-panel/sample/sample-config.php:878
+#: inc/options-panel/sample/sample-config.php:887
+#: inc/options-panel/sample/sample-config.php:895
+#: inc/options-panel/sample/sample-config.php:903
+#: inc/options-panel/sample/sample-config.php:912
+#: inc/options-panel/sample/sample-config.php:920
+#: inc/options-panel/sample/sample-config.php:934
+#: inc/options-panel/sample/sample-config.php:982
+#: inc/options-panel/sample/sample-config.php:992
+#: inc/options-panel/sample/sample-config.php:1022
+#: inc/options-panel/sample/sample-config.php:1031
+#: inc/options-panel/sample/sample-config.php:1039
+#: inc/options-panel/sample/sample-config.php:1048
+#: inc/options-panel/sample/sample-config.php:1056
+#: inc/options-panel/sample/sample-config.php:1065
+#: inc/options-panel/sample/sample-config.php:1073
+#: inc/options-panel/sample/sample-config.php:1082
+#: inc/options-panel/sample/sample-config.php:1090
+#: inc/options-panel/sample/sample-config.php:1099
+#: inc/options-panel/sample/sample-config.php:1117
+#: inc/options-panel/sample/sample-config.php:1126
+#: inc/options-panel/sample/sample-config.php:1134
+#: inc/options-panel/sample/sample-config.php:1143
+#: inc/options-panel/sample/sample-config.php:1151
+#: inc/options-panel/sample/sample-config.php:1199
+#: inc/options-panel/sample/sample-config.php:1210
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:877
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:886
+#: inc/options-panel/sample/sample-config.php:911
+msgid "Multi Checkbox Option (with menu data)"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:894
+msgid "Multi Checkbox Option (with sidebar data)"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:902
+msgid "Radio Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:919
+msgid "Images Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:933
+msgid "Images Option for Layout"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:935
+msgid ""
+"This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:949
+#: inc/options-panel/sample/sample-config.php:962
+msgid "Sortable Text Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:950
+#: inc/options-panel/sample/sample-config.php:963
+msgid "Define and reorder these however you want."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:975
+msgid "Select Fields"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:981
+msgid "Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:991
+msgid "Multi Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1002
+msgid "Select Image"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1003
+msgid "A preview of the selected image will appear underneath the select box."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1015
+msgid "You can easily add a variety of data from WordPress."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1021
+msgid "Categories Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1030
+msgid "Categories Multi Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1038
+msgid "Pages Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1047
+msgid "Pages Multi Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1055
+msgid "Tags Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1064
+msgid "Tags Multi Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1072
+msgid "Menus Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1081
+msgid "Menus Multi Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1089
+msgid "Post Type Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1098
+msgid "Post Type Multi Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1108
+msgid "Post Type Multi Select Option + Sortable"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1109
+msgid "This field also has sortable enabled!"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1116
+msgid "Posts Select Option2"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1125
+msgid "Posts Multi Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1133
+msgid "User Role Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1142
+msgid "Capabilities Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1150
+msgid "Elusive Icons Select Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1152
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1160
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1161
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1162
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1166
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1173
+#: inc/options-panel/sample/sample-config.php:1308
+msgid "Documentation"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1191
+msgid "Additional Fields"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1198
+msgid "Date Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1209
+msgid "Button Set Option"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1219
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1225
+#: inc/options-panel/sample/sample-config.php:1233
+msgid "This is a title."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1226
+msgid "This is an info field with the warning style applied and a header."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1234
+msgid ""
+"This is an info field with the success style applied, a header and an icon."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1246
+msgid "Custom Field Callback"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1247
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1248
+msgid ""
+"This is created with a callback function, so anything goes in this field. "
+"Make sure to define the function though."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1254
+msgid "Group - BETA"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1255
+msgid "Group any items together. Experimental. Use at your own risk."
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1256
+msgid "Group"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1262
+msgid "testing fold with Group"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1269 inc/widgets/text.php:12
+msgid "Text"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1270
+msgid "Here you put your subtitle"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1276
+msgid "Testing select"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1294
+msgid "Theme Information"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1320
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1321
+#: inc/options-panel/sample/sample-config.php:1327
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1326
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1331
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1354
+#: inc/options-panel/sample/sample-config.php:1355
+msgid "Sample Options"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1426
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1428
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/options-panel/sample/sample-config.php:1432
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/options.php:1050
+msgid "Theme Options"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:104 inc/template-tags.php:129
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:120
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:171
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/village/Village.class.php:501
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/village/Village.class.php:502
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:155
+#: inc/village/init_plugins/initialize_plugins.php:101
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:156
+#: inc/village/init_plugins/initialize_plugins.php:102
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:157
+#: inc/village/init_plugins/initialize_plugins.php:103
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:169
+#: inc/village/init_plugins/initialize_plugins.php:115
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:171
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1840
+#: inc/village/init_plugins/initialize_plugins.php:116
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1085
+msgid "External Link"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1100
+msgid "Required"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1292
+msgid "Source"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1293
+msgid "Type"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1312
+msgid "Install"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1313
+msgid "Activate"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1950
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1950
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/village/init_plugins/initialize_plugins.php:104
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/village/init_plugins/initialize_plugins.php:117
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/village/page-builder/Village_Block_Slider.php:68
+msgid "Select / Upload Image"
+msgstr ""
+
+#: inc/village/page-builder/Village_Block_Slider.php:70
+msgid "Change Image"
+msgstr ""
+
+#: inc/widgets/text.php:10
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+#: inc/widgets/text.php:60
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/text.php:63
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/text.php:68
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: parts/content-page.php:7 parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: parts/entry.php:36
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr ""

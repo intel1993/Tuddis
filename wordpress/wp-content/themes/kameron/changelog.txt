@@ -1,0 +1,26 @@
+ == Kameron-1.0.4
+    - Fixed: Scroll notification shouldn't appear in Galleries
+ == Kameron-1.0.3
+    - Fixed: Always resize gallery properly
+    - Fixed: Closing the gallery will go back to defined Portfolio URL if can't find a previous URL in browser history
+    - Fixed: Gallery sidebar cookies
+    - Fixed: Galleries now work with Admin Bar turned on
+    - Fixed: If neither image nor video is added, don't display the slide...
+ == Kameron-1.0.3
+    - Fixed: Always resize gallery properly
+    - Fixed: Closing the gallery will go back to defined Portfolio URL if can't find a previous URL in browser history
+    - Fixed: Gallery sidebar cookies
+    - Fixed: Galleries now work with Admin Bar turned on
+    - Fixed: If neither image nor video is added, don't display the slide...
+    - Updated: Added all 3 theme demos
+ == Kameron-1.0.2
+    - Updated: Upaded all 3 theme demos
+    - Fixed: Gallery button alignment
+    - Fixed: PJAX Disabled for Inputs & Buttons
+    - Fixed: Menu responsive/regular mode detection
+ == Kameron-1.0.1
+    - Updated: Completley JavaScript resizing codebase for perfomance!
+    - Fixed: Creating only one style tag in the DOM for JavaScript styles
+== Kameron 1.0.0
+  
+  - Initial Release
